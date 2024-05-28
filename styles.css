@@ -23,7 +23,7 @@ body{
   .timeline {
       display: grid;
       grid-template-rows: repeat(auto-fit, minmax(20px,0.5fr));
-      gap: 2px;
+      gap: 5px;
   }
   
   .person {
